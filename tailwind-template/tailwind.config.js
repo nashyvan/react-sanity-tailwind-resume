@@ -374,6 +374,7 @@ module.exports = {
         'monospace',
       ],
       fira: ['Fira Sans', 'Arial', 'sans-serif'],
+      body: ['"Fira Sans"'],
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
