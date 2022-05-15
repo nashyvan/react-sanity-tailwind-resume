@@ -373,7 +373,6 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
-      fira: ['Fira Sans', 'Arial', 'sans-serif'],
       body: ['"Fira Sans"'],
     },
     fontSize: {
